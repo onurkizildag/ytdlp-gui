@@ -4,3 +4,10 @@ build/
 upx/
 version.txt
 test*
+__pycache__/
+*.pyc
+*.m4a
+*.mp4
+*.mkv
+*.srt
+bulunur_pdfler.py
